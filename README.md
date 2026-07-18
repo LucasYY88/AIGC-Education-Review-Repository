@@ -1,9 +1,9 @@
 # Data Availability — AIGC in Education: A Systematic Review
 
-This repository supports the manuscript submitted to *[Journal Name]*:
+This repository supports the manuscript submitted to *Humanities and Social Sciences Communications*:
 
-> **[Manuscript Title]**
-> [Author 1], [Author 2], & [Author 3]
+> **AIGC in education: a systematic review of applications, challenges and pathways**
+> [Ye Zhang], [Shuo Zhang], & [Xinrong Chen]
 
 It contains the bibliographic metadata (reference list) for all 68 peer-reviewed studies included in the systematic review. The full-text PDFs of these 68 studies are **not** stored here — they are submitted to the journal as supplementary material so that the editorial office can verify the included studies.
 
@@ -65,4 +65,4 @@ The full-text PDFs of the included studies are **not** part of this repository. 
 
 ## ✉️ Contact
 
-For questions about this repository, please contact the corresponding author: *[Corresponding Author Email]*.
+For questions about this repository, please contact the corresponding author: *yezhang@sspu.edu.cn*.
