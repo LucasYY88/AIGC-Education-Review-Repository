@@ -1,0 +1,11 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*~
+
+# Local build artifacts
+*.log
+_build_summary.txt
