@@ -26,13 +26,14 @@ For the full-text PDFs, please refer to the journal's supplementary material ass
 
 ```
 .
-├── README.md              ← this file
-├── references.md          ← 68 entries, each linked to its DOI on the publisher's website
-├── references.csv         ← same 68 entries in spreadsheet form (UTF-8 BOM)
-├── References.html        ← original Zotero "Better CSL" export
-├── scripts/               ← build script (regenerates the reference list)
+├── README.md                ← this file
+├── references.md            ← 68 entries, each linked to its DOI on the publisher's website
+├── references.csv           ← same 68 entries in spreadsheet form (UTF-8 BOM)
+├── References.html          ← original Zotero "Better CSL" export
+├── ReferencesSelection.xlsx ← three rounds of literature selection process
+├── scripts/                 ← build script (regenerates the reference list)
 │   └── build_repo.py
-└── LICENSE                ← CC BY 4.0
+└── LICENSE                  ← CC BY 4.0
 ```
 
 The 68 entries are numbered in the same order as the reference list in the submitted manuscript.
