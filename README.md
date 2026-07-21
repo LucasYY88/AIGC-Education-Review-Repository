@@ -16,6 +16,7 @@ It contains the bibliographic metadata (reference list) for all 68 peer-reviewed
 | Read the reference list online | [`references.md`](./references.md) |
 | Open it in Excel / a spreadsheet | [`references.csv`](./references.csv) |
 | See the original Zotero export | [`References.html`](./References.html) |
+| See the process of literature selection | [`ReferencesSelection.xlsx`](./ReferencesSelection.xlsx) |
 
 For the full-text PDFs, please refer to the journal's supplementary material associated with the submitted manuscript.
 
